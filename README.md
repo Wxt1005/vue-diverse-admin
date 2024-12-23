@@ -132,8 +132,3 @@ vue-diverse-admin
 ├─ tsconfig.json          # typescript 全局配置
 └─ vite.config.ts         # vite 配置
 ```
-
-### 最后
-
-- 感谢第三方开源库的支撑，项目图片资源源于网络，侵权联系作者删；使用过程中碰到问题也可以找作者！！
-![banner](https://gitee.com/lin_zi_quan/vue-diverse-admin/raw/main/src/assets/md/1675495963149.png)
