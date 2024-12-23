@@ -9,8 +9,7 @@
 
 ### 一、Git 仓库地址 (欢迎 Star⭐)
 
-- Gitee：https://gitee.com/lin_zi_quan/vue-diverse-admin
-- GitHub：https://github.com/1164095457/vue-diverse-admin
+- GitHub:https://github.com/Wxt1005/vue-diverse-admin
 
 ### 二、🔨🔨🔨 项目功能
 
@@ -38,9 +37,7 @@
 
 ```text
 # GitHub
-git clone https://github.com/1164095457/vue-diverse-admin.git
-# Gitee
-git clone https://gitee.com/lin_zi_quan/vue-diverse-admin.git
+https://github.com/Wxt1005/vue-diverse-admin
 ```
 
 - **安装依赖：**
